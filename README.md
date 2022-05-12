@@ -25,7 +25,7 @@ You'll need to have the PyGame module installed to play this, so if you don't al
 
 `pip install pygame`
 
-Once you've cloned the repository and pip installed pygame, you should be able to play the game by changing to the directory to the repository directory and running the main file.
+Once you've cloned the repository and pip installed pygame, you should be able to play the game by changing the current directory to the repository directory and running the main file.
 
 `cd dont_fall_off_the_rails_game`
 
@@ -35,8 +35,8 @@ Once you've cloned the repository and pip installed pygame, you should be able t
 
 This method will be much simpler to use, but will have poor performance and lag once the game gets going, due to limitations in processing and the required transfer of the pygame output to an HTML web browser user interface. It will, however, give you a good idea as to what the game looks like and could help you decide if you want to download/play it. To use this, go to the [**repl.it site**](https://replit.com/@tinyleafgreens/DontFallOffTheRailsGame#main.py "repl.it link"). 
 
-The game size window is a set size, so you'll need to:
+The game size window is a set size, so to play you'll need to:
 1. Ensure that your page zoom is set to 100% 
 2. Click on the run button (this will show the game start page in the pygame window)
 3. Ensure that you close or minimize the all windows (code/files/terminal) aside from the pygame window.
-4. Once your window shows only the black pygame screen, you should be good to play!
+4. Once your window shows only the pygame screen, you should be good to play!
