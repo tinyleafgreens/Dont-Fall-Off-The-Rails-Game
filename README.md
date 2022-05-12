@@ -19,7 +19,7 @@ Currently, there are two ways to run the game. The game was designed to be playe
 
 Ideally, you will be playing this on a desktop computer. In your terminal window, you should be able to clone this repository using the following command.
 
-`git clone https://github.com/tinyleafgreens/dont_fall_off_the_rails_game.git`
+`git clone https://github.com/tinyleafgreens/Dont-Fall-Off-The-Rails-Game.git`
 
 You'll need to have the PyGame module installed to play this, so if you don't already have it installed, use the following command to install it.
 
@@ -27,7 +27,7 @@ You'll need to have the PyGame module installed to play this, so if you don't al
 
 Once you've cloned the repository and pip installed pygame, you should be able to play the game by changing the current directory to the repository directory and running the main file.
 
-`cd dont_fall_off_the_rails_game`
+`cd Dont-Fall-Off-The-Rails-Game`
 
 `python dfotr_game_main.py`
 
