@@ -58,7 +58,7 @@ class AlgoGame:
             if self.scrolling:
                 self.total_time += self.clock.get_rawtime()
                 if self.total_time > 1000:
-                    print(self.settings.scroll_speed)
+                    # print(self.settings.scroll_speed)
                     self.settings.scroll_speed += 0.5
                     self.algo.settings.algo_speed += 0.15
                     self.total_time = 0
