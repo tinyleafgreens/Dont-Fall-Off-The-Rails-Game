@@ -1,4 +1,4 @@
-# Don't Fall off The Rails! by Tinyleaf Greens #
+# Don't Fall Off The Rails! by Tinyleaf Greens #
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/87482570/168091209-bbfac212-a413-4e03-84b6-c7dada0cef1b.jpg"/>
