@@ -13,7 +13,7 @@ The gameplay is very simple. To get started, use the up, down, left and right ar
 
 ## Running the Game ##
 
-Currently, there are two ways to run the game. The game was designed to be played using option 1 (download and run in python interpreter), but it is possible to sample the game online using option 2 (repl.it). Option 2 will result in siginificanly worse performance, due to the nature of the method.
+Currently, there are two ways to run the game. The game was designed to be played using option 1 (download and run in python interpreter), but it is possible to sample the game online using option 2 (repl.it). Option 2 will result in significantly worse performance, due to the nature of the method.
 
 ### Option 1: Download and Run in Python Interpreter (Preferred) ###
 
