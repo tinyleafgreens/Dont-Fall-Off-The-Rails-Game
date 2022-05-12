@@ -6,7 +6,7 @@
 
 A simple, yet fun sidescrolling game based on my favorite cryptocurrency. The game respesents the ups and downs that the price of Algorand takes. In the background is the creator of Algorand, Turing-award winner, Silvio Micali. The goal of the game is to gather as many points as possible without completely falling off of the rails. You can hang off of the rails as you please, but if you go completely off the rails, you will lose a life and your avatar will reset. You will have three lives to do this after which, the game will be over and you'll recieve your final score. The game is scored by adding points for each rail, increasing point values with speed. How far can you go!?
 
-This game was developed in Python using the PyGame module as a way to test out game logic development and quite frankly, have a bit of fun... 
+This game was developed in Python using the PyGame module as a way to test out game logic development and quite frankly, have a bit of fun. To see a demonstration of gameplay, check out the [YouTube Video Demonstration](https://youtu.be/WH5CTayH5zc "YouTube Video Demo Link").
 
 ## Controls ##
 The gameplay is very simple. To get started, use the up, down, left and right arrow keys on your keyboard to control your avatar. When you fall off the rails, the avatar will reset and you'll be instructed to press any arrow key to continue. Once you've run out of lives you'll reach the game over screen. Press the space key to reset the game and play again!
